@@ -1,2 +1,2 @@
 # hello world
-# {link to index.html}(index.html)
+# {link to index.html} (index.html)
