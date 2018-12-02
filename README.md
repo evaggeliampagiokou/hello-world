@@ -1,2 +1,2 @@
 # hello world
-# {index.html}(file:///C:/workspaces/village-clock/index.html)
+# {link to index.html}(index.html)
