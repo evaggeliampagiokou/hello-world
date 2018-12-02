@@ -1,2 +1,2 @@
 # hello-world
-#[index.html]
+# {index.html}
