@@ -1,2 +1,2 @@
 # hello-world
-# {index.html}(file:/index.html)
+# {index.html}(README.md:/index.html)
